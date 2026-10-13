@@ -32,6 +32,9 @@ def get_secret(key: str):
 GROQ_API_KEY = get_secret("GROQ_API_KEY")
 JINA_API_KEY = get_secret("JINA_API_KEY")
 
+print("Groq API key loaded:", bool(GROQ_API_KEY))
+print("Jina API key loaded:", bool(JINA_API_KEY))
+
 
 # Data paths
 DATA_FILE_PATH = os.path.join("data", "Hr_policy.txt")
