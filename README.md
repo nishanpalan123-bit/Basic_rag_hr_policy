@@ -1,4 +1,4 @@
-🤖 Basic RAG-Based HR Policy Assistant
+##🤖 Basic RAG-Based HR Policy Assistant
 
 An AI-powered HR Policy Assistant built using Retrieval-Augmented Generation (RAG) to help users find answers to HR-related questions from policy documents.
 
